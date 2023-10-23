@@ -10,3 +10,5 @@ Limitations:
 TODO: 
 1. Code cleanup
 2. Add more examples and follow standard arduino library format
+
+**See `main.cpp` for an working example. Compile with Arduino IDE or PlatformIO.**
