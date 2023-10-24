@@ -5,6 +5,9 @@ The channel D of DAC81404 in the Evaluation Module (DAC81404EVM) is problematic 
 
 **See `main.cpp` for an working example. Compile with Arduino IDE or PlatformIO.**
 
+**Platforms:**
+I tested the code with Teensy 3.x & 4.x. The code should work for other platforms as well. Please report if something is amiss.
+
 **Limitations:**
 1. BETA versions - some bugs may exist. Please report if you encounter one. 
 2. LDAC pin is not handled by the library.
