@@ -15,3 +15,6 @@ I tested the code with Teensy 3.x & 4.x. The code should work for other platform
 **TODO:**
 1. Code cleanup
 2. Add more examples and follow standard Arduino library format
+
+![20210228_201841](https://github.com/user-attachments/assets/a77609d5-51d9-47d9-9d79-06c053c6222c)
+The DAC81404EVM is running the example code with a Teensy 4.0, with Channel D’s circuitry on the EVM modified.
